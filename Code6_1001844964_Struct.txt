@@ -1,0 +1,12 @@
+typedef struct studentprofile
+{
+    char *full_name;
+    char intial;
+    int age;
+    int student_id;
+    int graduation_year;
+    float current_gpa;
+    struct studentprofile *nextptr;
+    
+}
+STUDENTPROFILE;
