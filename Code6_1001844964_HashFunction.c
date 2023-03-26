@@ -1,7 +1,3 @@
-// Aryan Mainkar
-// 1001844964
-// Coding Assignment 6
-// CSE 3318-001
 
 #include <stdio.h>
 #include <stdlib.h>
